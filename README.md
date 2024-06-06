@@ -76,11 +76,14 @@ This step visualizes
 - their frequency across chapters and book chunks,
 - their entropy.
 
-Here's an example of the frequency of the three labels on the book *Max Havelaar*, annotated at the clause level with with Openai gpt-4-1106-preview.
+Here is an example of the frequency of the three labels in the book *Max Havelaar*, annotated at the clause level with with Openai gpt-4-1106-preview.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="gitbook/max_havelaar-smooth-ESC-crop.jpg" alt="Image 1" width="200"/>
+
+
+<div align="center">
+  <img src="gitbook/max_havelaar-smooth-ESC-crop.jpg" alt="Image 1" width="230"/>
 </div>
+
  
 <br>
 
