@@ -28,11 +28,14 @@
 This repository contains a pipeline for computational narrative analysis assisted by Large Language Models (LLMs).  
 
 LANTERN can **preprocess**, **annotate**, and **analyse** entire collections of books, and understand what parts of a book expresses the following narrative information:
-- <span style="background-color: rgb(171, 235, 198); color: black;">Events</span>: all that happens in the narrative world.
-- <span style="background-color: rgb(243, 166, 197); color: black;">Subjective Experiences</span>: all that happens within a character, such as memories, emotions, and perceptions.
-- <span style="background-color: rgb(156, 173, 206); color: black;">Contextual Information</span>: additional details that contextualize the story, such as characters' relationships or sceneries.
+- ![E](https://img.shields.io/badge/Events-%20-rgb(171,235,198)?style=flat&labelColor=rgb(171,235,198))  
+  i.e., all that happens in the narrative world
+- ![S](https://img.shields.io/badge/Subjective%20Experiences-%20-rgb(243,166,197)?style=flat&labelColor=rgb(243,166,197))  
+  i.e., all that happens within a character, such as memories, emotions, and perceptions.
+- ![C](https://img.shields.io/badge/Contextual%20Information-%20-rgb(156,173,206)?style=flat&labelColor=rgb(156,173,206))  
+  i.e., additional details that contextualize the story, such as characters' relationships or sceneries.
 
-E.g., &nbsp;&nbsp;<span style="background-color: rgb(171, 235, 198); color: black;">  *My friend sighted,*  </span> <span style="background-color: rgb(243, 166, 197); color: black;">  *filled with relief,*  </span> <span style="background-color: rgb(156, 173, 206); color: black;">  *as darkness fell over the city.*  </span> 
+E.g., ![E](https://img.shields.io/badge/My%20friend%20sighted,-%20-rgb(171,235,198)?style=flat&labelColor=rgb(171,235,198))![S](https://img.shields.io/badge/filled%20with%20relief-%20-rgb(243,166,197)?style=flat&labelColor=rgb(243,166,197))![C](https://img.shields.io/badge/as%20darkness%20fell%20over%20the%20city.%20-rgb(156,173,206)?style=flat&labelColor=rgb(156,173,206))  
 
 
 # How to Use
