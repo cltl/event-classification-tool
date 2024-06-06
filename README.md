@@ -84,7 +84,7 @@ Here is an example of the frequency of the three labels in the book *Max Havelaa
 
 
 <div align="center">
-  <img src="gitbook/max_havelaar-smooth-ESC-crop.jpg" alt="Image 1" width="230"/>
+  <img src="gitbook/max_havelaar-smooth-ESC-crop.jpg" alt="Image 1" width="330"/>
 </div>
 
  
@@ -148,13 +148,6 @@ If you already have the sentences .tsv file, you can just run
 ```
 python3 scripts/preprocess/preprocess_book.py --clauses 
 ```
-
-
-Here's a corpus created with this methodology
-
-Tool come risultato di partnership con consortium CLARIAH NL
-
-Ecco come citare la metodologia usata in questo paper.
 
 
 # Related Resources
