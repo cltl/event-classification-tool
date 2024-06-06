@@ -39,7 +39,7 @@ E.g., &nbsp;&nbsp;<span style="background-color: rgb(171, 235, 198); color: blac
 
 Clone this repository and install the required dependencies.
   
-    $ gh repo clone troianea/EventDetectionTool
+    $ gh repo clone cltl/event-detection-tool
     $ pip3 install -r requirements.txt
 
 Download [Meta-Llama-3-8B-Instruct-GGUF](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF/resolve/main/Meta-Llama-3-8B-Instruct.Q4_K_M.gguf) and store it in `./llms/`.
