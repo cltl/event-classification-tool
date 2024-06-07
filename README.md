@@ -150,13 +150,6 @@ python3 scripts/preprocess/preprocess_book.py --clauses
 ```
 
 
-Here's a corpus created with this methodology
-
-Tool come risultato di partnership con consortium CLARIAH NL
-
-Ecco come citare la metodologia usata in questo paper.
-
-
 # Related Resources
 
 This tool was created in collaboration with the [CLARIAH](https://www.clariah.nl) consortium. <img src="gitbook/clariah_logo.png" width="90" height="32" style="margin-left: 10px;"/>
