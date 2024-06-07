@@ -52,7 +52,7 @@ def chunk_entropy(book_df, num_chunks):
 
         if tot_spans > 0 and len(probs) > 0:  # Ensure we have non-zero data and avoid division by zero
             probs = [prob/tot_spans for prob in probs]  # Normalize probabilities
-            entropies[f'chunk_{i+1}'] = entropy(probs, base=2)  # Calculate entropy, specifying the logarithm base if necessary
+            entropies[f'chunk_{i+1}'] = entropy(probs, base=10)  # Calculate entropy, specifying the logarithm base if necessary
         else:
             entropies[f'chunk_{i+1}'] = 0  # Handle the case with zero data as you see fit
 

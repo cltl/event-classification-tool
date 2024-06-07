@@ -54,7 +54,7 @@ def plot_entropy(entropy_dict, filename,nchunks=None,chapter_boundaries=None):
         plt.xticks(range(len(categories)), categories, rotation=90)
 
     if nchunks:
-        xlabel = "{nchunks} Chunks in Book"
+        xlabel = f"{nchunks} Chunks in Book"
     else:
         xlabel = "Book Chapters"
 
