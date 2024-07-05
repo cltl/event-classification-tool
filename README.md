@@ -96,8 +96,10 @@ Here is an example of the frequency of the three labels in the book *Max Havelaa
 
 
 
-Right now, LANTERN runs on *Max Havelaar* by Multatuli, and uses a [quantized version](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF) of Llama-3 for clause splitting and annotation.
+Right now, LANTERN runs on *Max Havelaar* by Multatuli and *Nooit Meer Slaapen* by Hermans, and it uses a [quantized version](https://huggingface.co/MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF) of Llama-3 for clause splitting and annotation.
 But you can apply this pipeline on different books (either in English or Dutch) and with other LLMs .
+
+NOTE: For copyright reasons, we make available only the results obtained on the Hermans' book, and not the book itself.
 
 ### Using Another Model...
 
